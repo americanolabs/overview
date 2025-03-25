@@ -63,9 +63,9 @@ We aim to push the boundaries of blockchain technology while maintaining high-sp
    - ProxyAdmin = 0xe2477E622c9E6f83CC5B964031CBD6DAB332c006
     
 2. Hyperlane7638 - Decaf Testnet
-   - Router Proxy = 
-   - Implementation = 
-   - ProxyAdmin = 
+   - Router Proxy = 0x0047f1B00a2b50332B1b41e422Bc4F2D84412676
+   - Implementation = 0x0ab91b6a585E39E9b5211e6Bb4487798e77cfB44
+   - ProxyAdmin = 0x0a5f05a2F99bb706866dA43A9e9eE5d1A7B7AC1e
 
 3. Additional contracts - Arbitrum Sepolia
    - CREATEX_ADDRESS = 0xba5Ed099633D3B313e4D5F7bdc1305d3c28ba5Ed
