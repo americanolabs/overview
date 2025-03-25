@@ -73,7 +73,7 @@ We aim to push the boundaries of blockchain technology while maintaining high-sp
    - PERMIT2 = 0x000000000022D473030F116dDEE9F6B43aC78BA3
      
 4. Additional contracts - Decaf Testnet
-   - CREATEX_ADDRESS =
+   - CREATEX_ADDRESS = 0xba5Ed099633D3B313e4D5F7bdc1305d3c28ba5Ed
    - MAILBOX = 0xD95d2F7C38bfA2f9d7A618474Bc619470f01001F
    - PERMIT2 = 0x000000000022D473030F116dDEE9F6B43aC78BA3
 
