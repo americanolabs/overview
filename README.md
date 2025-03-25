@@ -37,7 +37,7 @@ We aim to push the boundaries of blockchain technology while maintaining high-sp
 - **AI Engine:** Python
 - **Backend:** Node.js, Express
 - **Frontend:** Next.js, Wagmi
-- **Tools & Infra:** Foundry, Hardhat, Onchain Toolkit
+- **Tools & Infra:** Foundry, Hardhat
 
 ---
 
