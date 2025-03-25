@@ -17,10 +17,15 @@ We aim to push the boundaries of blockchain technology while maintaining high-sp
 ---
 
 ## 🔥 Key Features
+
 ✅ **AI-Driven Risk Profiling** – Personalized investment strategies.
+
 ✅ **Automated Cross-Chain Staking** – AI optimizes yield opportunities.
+
 ✅ **Arbitrum Nitro Rollup Integration** – Enhanced scalability and low fees.
+
 ✅ **Open Intents** – Decentralized user-driven execution.
+
 ✅ **Fast & Secure Transactions** – Built for real-world adoption.
 
 ---
@@ -53,14 +58,14 @@ We aim to push the boundaries of blockchain technology while maintaining high-sp
 
 ## Contracts
 1. Hyperlane7683 - Arbitrum Sepolia
-  - Router Proxy = 0x05a8D0b7aBF2fa7deD41BaDAbEa785C5fB044aaB
-  - Implementation = 0xC7C6086BDed52b63009Dfd55eB17dD4Cc8AfDC99
-  - ProxyAdmin = 0xe2477E622c9E6f83CC5B964031CBD6DAB332c006
+   - Router Proxy = 0x05a8D0b7aBF2fa7deD41BaDAbEa785C5fB044aaB
+   - Implementation = 0xC7C6086BDed52b63009Dfd55eB17dD4Cc8AfDC99
+   - ProxyAdmin = 0xe2477E622c9E6f83CC5B964031CBD6DAB332c006
     
 2. Hyperlane7638 - Decaf Testnet
-  - Router Proxy = 
-  - Implementation = 
-  - ProxyAdmin = 
+   - Router Proxy = 
+   - Implementation = 
+   - ProxyAdmin = 
 
 3. Additional contracts - Arbitrum Sepolia
    - CREATEX_ADDRESS = 0xba5Ed099633D3B313e4D5F7bdc1305d3c28ba5Ed
