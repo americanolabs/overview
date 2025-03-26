@@ -58,14 +58,14 @@ We aim to push the boundaries of blockchain technology while maintaining high-sp
 
 ## Contracts
 1. Hyperlane7683 - Arbitrum Sepolia
-   - Router Proxy = 0x05a8D0b7aBF2fa7deD41BaDAbEa785C5fB044aaB
-   - Implementation = 0xC7C6086BDed52b63009Dfd55eB17dD4Cc8AfDC99
-   - ProxyAdmin = 0xe2477E622c9E6f83CC5B964031CBD6DAB332c006
+   - Router Proxy = 0xC1d0d7C961daF74BECa71416359a92c59c8A8012
+   - Implementation = 0x01E17FE5cc02f073CF76b0Bd426eB04D2A0EBd4d
+   - ProxyAdmin = 0x6709B9c923eA339dd6b8BfF7085e9Eb706C72957
     
 2. Hyperlane7638 - Decaf Testnet
-   - Router Proxy = 0x0047f1B00a2b50332B1b41e422Bc4F2D84412676
-   - Implementation = 0x0ab91b6a585E39E9b5211e6Bb4487798e77cfB44
-   - ProxyAdmin = 0x0a5f05a2F99bb706866dA43A9e9eE5d1A7B7AC1e
+   - Router Proxy = 0xC1d0d7C961daF74BECa71416359a92c59c8A8012
+   - Implementation = 0x01E17FE5cc02f073CF76b0Bd426eB04D2A0EBd4d
+   - ProxyAdmin = 0xb455397C33A756CD051D091c034b57A8f1798c7C
 
 3. Additional contracts - Arbitrum Sepolia
    - CREATEX_ADDRESS = 0xba5Ed099633D3B313e4D5F7bdc1305d3c28ba5Ed
