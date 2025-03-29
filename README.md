@@ -1,6 +1,6 @@
 # ☕ AmericanoLabs
 
-![Logo AmericanoLabs]([https://yourdomain.com/logo.png](https://res.cloudinary.com/dutlw7bko/image/upload/v1743290524/americanolabs/kdfekme0elfehvlv22ra.png))
+![Logo AmericanoLabs](https://res.cloudinary.com/dutlw7bko/image/upload/v1743290524/americanolabs/kdfekme0elfehvlv22ra.png)
 
 Welcome to **AmericanoLabs**! We are pioneering the next generation of decentralized finance by leveraging **Arbitrum Nitro Rollups** and **Open Intents** to build scalable, trustless, and intelligent AI-driven solutions.
 
