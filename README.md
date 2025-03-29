@@ -52,13 +52,13 @@ We aim to push the boundaries of blockchain technology while maintaining high-sp
 
 ---
 
-## Networks
+## 🚧 Networks
 1. Arbitrum Sepolia ( Chain Id: 421614 )
 2. Decaf Testnet ( Chain Id: 12177 ) - Rollup Arbitrum Nitro with Espresso Network
 3. Base Sepolia ( Chain Id: 84532 )
 ---
 
-## Contracts
+## 📬 Contracts
 1. Hyperlane7683 - Arbitrum Sepolia
    - Router Proxy = 0xD22A20bD7A2E2f174E69ac053e546a48aC98d2Bd
    - Implementation = 0xFcf9c2a63B83fDFE35bcf9505eaFC5EffFd8E655
@@ -93,57 +93,57 @@ We aim to push the boundaries of blockchain technology while maintaining high-sp
 
 ---
 
-# Staking Protocols
+## 📝  Staking Protocols
 
-## 1. Arbitrum Sepolia
+### 1. Arbitrum Sepolia
 
-### 1.1 RockX
+#### 1.1 RockX
 - **Address Staking:** `0x5B4eFE4627d52D22a37da74Ee480CdC1F7bd15a6`
 - **Token:** ETH
 - **APY:** 10%
 - **TVL:** 0
 - **Categories:** Staking, Stablecoin
 
-### 1.2 Camelot
+#### 1.2 Camelot
 - **Address Staking:** `0x0c2470065cAD1CdE95062E1203B631C3a06B4f79`
 - **Token:** ETH
 - **APY:** 15%
 - **TVL:** 0
 - **Categories:** Staking, Stablecoin
 
-## 2. Decaf Testnet
+### 2. Decaf Testnet
 
-### 2.1 Veda
+#### 2.1 Veda
 - **Address Staking:** `0x944c0F40efFd73Fb5Cb02851ce7CcA0e30a61D3D`
 - **Token:** ETH
 - **APY:** 20%
 - **TVL:** 0
 - **Categories:** Staking, Stablecoin
 
-### 2.2 Hord
+#### 2.2 Hord
 - **Address Staking:** `0xBcBe5DE4D9F8F9336924eCB90888a775DfB06Eb9`
 - **Token:** ETH
 - **APY:** 25%
 - **TVL:** 0
 - **Categories:** Staking, Stablecoin
 
-## 3. Base Sepolia
+### 3. Base Sepolia
 
-### 3.1 Aave
+#### 3.1 Aave
 - **Address Staking:** `0x0d986999212bA44AA7AEdf0916dE0418784114c3`
 - **Token:** ETH
 - **APY:** 13%
 - **TVL:** 0
 - **Categories:** Staking, Stablecoin
 
-### 3.2 Pendle
+#### 3.2 Pendle
 - **Address Staking:** `0xeE1017A9CB1E0850322Dd7694bfF6F9F4012E76f`
 - **Token:** ETH
 - **APY:** 12%
 - **TVL:** 0
 - **Categories:** Staking, Stablecoin
 
-### 3.3 Morpho
+#### 3.3 Morpho
 - **Address Staking:** `0x766134D501efe40F9f3feb9df5dD3E333d4be9CC`
 - **Token:** ETH
 - **APY:** 17%
