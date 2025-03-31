@@ -157,5 +157,19 @@ We aim to push the boundaries of blockchain technology while maintaining high-sp
 
 ---
 
+## ⛓️ Links
+- [AmericanoLabs](http://americanolabs.vercel.app/)
+- https://github.com/americanolabs/hyperlane-registry
+- https://github.com/americanolabs/solver
+- https://github.com/americanolabs/web
+- https://github.com/americanolabs/agent
+- https://github.com/americanolabs/backend
+- https://github.com/americanolabs/intents-contracts
+- https://github.com/americanolabs/sc
+- https://github.com/americanolabs/node
+- https://github.com/americanolabs/nitro-contracts
+
+---
+
 💡 **AmericanoLabs** – Brewing the Future of AI-Driven Decentralized Finance ☕
 
