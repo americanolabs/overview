@@ -51,10 +51,10 @@ We aim to push the boundaries of blockchain technology while maintaining high-sp
 5. **Transactions are rolled up** using Arbitrum Nitro for efficiency.
 
 ## OPEN INTENTS FLOWCHART ( Decaf Testnet is the arbitrum nitro rollup that we are deploying )
-[OPEN INTENTS FLOWCHART IMAGE](https://res.cloudinary.com/dutlw7bko/image/upload/v1743528889/americanolabs/Gm9iKKAbYAQpS_W_gao8eq.jpg)
+![OPEN INTENTS FLOWCHART IMAGE](https://res.cloudinary.com/dutlw7bko/image/upload/v1743528889/americanolabs/Gm9iKKAbYAQpS_W_gao8eq.jpg)
 
 ## REBALANCING FLOWCHART ( Decaf Testnet is the arbitrum nitro rollup that we are deploying )
-[REBALANCING FLOWCHART IMAGE](https://res.cloudinary.com/dutlw7bko/image/upload/v1743529285/americanolabs/Gm4FWbwbcAAuWRx_yrltrz.jpg)
+![REBALANCING FLOWCHART IMAGE](https://res.cloudinary.com/dutlw7bko/image/upload/v1743529285/americanolabs/Gm4FWbwbcAAuWRx_yrltrz.jpg)
 
 ---
 
