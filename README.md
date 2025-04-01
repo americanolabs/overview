@@ -60,19 +60,19 @@ We aim to push the boundaries of blockchain technology while maintaining high-sp
 
 ## 📬 Contracts
 1. Hyperlane7683 - Arbitrum Sepolia
-   - Router Proxy = 0xD22A20bD7A2E2f174E69ac053e546a48aC98d2Bd
-   - Implementation = 0xFcf9c2a63B83fDFE35bcf9505eaFC5EffFd8E655
-   - ProxyAdmin = 0x31A03e8F3fB01733c1d7Ba0A384d927D4C4fe3c4
+   - Router Proxy = 0x512097Cb649F5222591060E7644688b944480597
+   - Implementation = 0x52D1632779FB9D22f22aAF1ca0b2A0858c5c7974
+   - ProxyAdmin = 0xD4289bF44291EEd255FDf022a927F0D97fFCb6A1
     
 2. Hyperlane7638 - Decaf Testnet
-   - Router Proxy = 0xD22A20bD7A2E2f174E69ac053e546a48aC98d2Bd
-   - Implementation = 0xFcf9c2a63B83fDFE35bcf9505eaFC5EffFd8E655
-   - ProxyAdmin = 0x59B5EC424E3a9dC3026343B600D9E5cbf420c18c
+   - Router Proxy = 0x512097Cb649F5222591060E7644688b944480597
+   - Implementation = 0x52D1632779FB9D22f22aAF1ca0b2A0858c5c7974
+   - ProxyAdmin = 0xD4289bF44291EEd255FDf022a927F0D97fFCb6A1
 
 3. Hyperlane7638 - Base Sepolia
-   - Router Proxy = 0xD22A20bD7A2E2f174E69ac053e546a48aC98d2Bd
-   - Implementation = 0xFcf9c2a63B83fDFE35bcf9505eaFC5EffFd8E655
-   - ProxyAdmin = 0x31A03e8F3fB01733c1d7Ba0A384d927D4C4fe3c4
+   - Router Proxy = 0x512097Cb649F5222591060E7644688b944480597
+   - Implementation = 0x52D1632779FB9D22f22aAF1ca0b2A0858c5c7974
+   - ProxyAdmin = 0xD4289bF44291EEd255FDf022a927F0D97fFCb6A1
 
 ---
 
