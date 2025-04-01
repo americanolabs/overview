@@ -167,16 +167,17 @@ We aim to push the boundaries of blockchain technology while maintaining high-sp
 ---
 
 ## ⛓️ Links
-- [AmericanoLabs](http://americanolabs.vercel.app/)
-- https://github.com/americanolabs/hyperlane-registry
-- https://github.com/americanolabs/solver
-- https://github.com/americanolabs/web
-- https://github.com/americanolabs/agent
-- https://github.com/americanolabs/backend
-- https://github.com/americanolabs/intents-contracts
-- https://github.com/americanolabs/sc
-- https://github.com/americanolabs/node
-- https://github.com/americanolabs/nitro-contracts
+- [AmericanoLabs - Website](http://americanolabs.vercel.app/)
+- [Documentation - Gitbook](https://kbaji.gitbook.io/americano-labs)
+- [Hyperlane Registry - Github](https://github.com/americanolabs/hyperlane-registry)
+- [Solver Hyperlane with Open Intents Frameworks - Github](https://github.com/americanolabs/solver)
+- [Frontend with Open Intents Frameworks - Github](https://github.com/americanolabs/web)
+- [AI API - Github](https://github.com/americanolabs/agent)
+- [Backend - Github](https://github.com/americanolabs/backend)
+- [Hyperlane Contracts with Open Intents Frameworks - Github](https://github.com/americanolabs/intents-contracts)
+- [Staking Smart Contracts - Github](https://github.com/americanolabs/sc)
+- [Node with Espresso Network - Github](https://github.com/americanolabs/node)
+- [Nitro Rollup with Espresso Network - Github](https://github.com/americanolabs/nitro-contracts)
 
 ---
 
